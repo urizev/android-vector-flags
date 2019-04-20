@@ -40,6 +40,7 @@ Current flag country (code) list:
  * Mexico (mx)
  * Malaysia (my)
  * Neetherlands (nl)
+ * Palestinian Territory, Occupied (ps)
  * Polland (pl)
  * Qatar (qa)
  * Rusia (ru)
